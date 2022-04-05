@@ -1,0 +1,32 @@
+.man-hinh{
+    text-align: center;
+    margin-top: 5rem;
+}
+.btn-chuyen{
+    display: block;
+    background-color: yellow;
+    margin: auto;
+    margin-top: 2rem;
+    width: 50%;
+    height: 3rem;
+}
+.btn-odder{
+    margin-top: 2rem;
+    width: 10rem;
+    height: 3rem;
+    margin-right: 3rem;
+    font-weight: 600;
+}
+.btn-TV{
+    margin-top: 2rem;
+    width: 10rem;
+    height: 3rem;
+    font-weight: 600;
+    color: blue;
+}
+.odder{
+    color: rgb(48, 66, 66);
+}
+.tiengViet{
+    color: blue;
+}
