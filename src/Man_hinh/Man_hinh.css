@@ -1,6 +1,5 @@
 .man-hinh{
     text-align: center;
-    margin-top: 5rem;
 }
 .btn-chuyen{
     display: block;
@@ -11,22 +10,71 @@
     height: 3rem;
 }
 .btn-odder{
-    margin-top: 2rem;
+    margin-top: .2rem;
     width: 10rem;
     height: 3rem;
     margin-right: 3rem;
     font-weight: 600;
 }
 .btn-TV{
-    margin-top: 2rem;
+    margin-top: .2rem;
     width: 10rem;
     height: 3rem;
     font-weight: 600;
     color: blue;
+}
+.btn-TN{
+    margin-top: .2rem;
+    margin-right: 3rem;
+    width: 10rem;
+    height: 3rem;
+    font-weight: 600;
+    color: red;
 }
 .odder{
     color: rgb(48, 66, 66);
 }
 .tiengViet{
     color: blue;
+}
+.input-odder{
+    width: 15rem;
+    height: 2rem;
+    position: relative;
+    top: -3rem;
+    font-size: 1.7rem;
+}
+.ti-so{
+    
+    position: relative;
+    font-size: 1.3rem;
+}
+.btn-chuDe-all{
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 1rem;
+}
+.btn-chuDe-set{
+    width: 10rem;
+    height: 2.5rem;
+}
+.chuDe{
+    font-size: 3rem;
+    color: brown;
+    margin-top: 0rem;
+    margin-left: 1rem;
+}
+.soLuong{
+    margin-bottom: 1rem;
+}
+#min{
+    margin-top: 0.5rem;
+}
+.man-hinh__phu{
+    padding-top: 1rem;
+    text-align: center;
+    box-sizing: border-box;
+}
+.man-hinh{
+    display: none;
 }
